@@ -21,16 +21,16 @@ This repository contains a **Java** version of the game [*Eriantys*](https://www
 ## Implemented Funcionalities <a name="functionalities"></a>
 | Functionalities    |                      Status                       |
 |:-------------------|:-------------------------------------------------:|
-| Basic Rules        |                        🟩                         |
-| Complete Rules     |                        🟩                         |
-| Socket             |                        🟩                         |
-| CLI                |                        🟩                         |
-| GUI                |                        🟩                         |
-| Character Cards    |                        🟩                         |
-| Four Players Match |                        🟩                         |
-| Multiple Matches   |                        🟥                         |
-| Persistence        |                        🟥                         |
-| Resilience         |                        🟩                         |
+| Basic Rules        |                        ✓                         |
+| Complete Rules     |                        ✓                         |
+| Socket             |                        ✓                         |
+| CLI                |                        ✓                         |
+| GUI                |                        ✓                         |
+| Character Cards    |                        ✓                         |
+| Four Players Match |                        ✓                         |
+| Multiple Matches   |                        ✖                         |
+| Persistence        |                        ✖                         |
+| Resilience         |                        ✓                         |
 
 #### Legend
 🟥Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;
